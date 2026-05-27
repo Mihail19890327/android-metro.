@@ -1,0 +1,7 @@
+<resources>
+    lor name="purple_500">#6C63FF</color>
+    lor name="purple_700">#4338CA</color>
+    lor name="teal_200">#03DAC5</color>
+    lor name="black">#000000</color>
+    lor name="white">#FFFFFF</color>
+</resources>
